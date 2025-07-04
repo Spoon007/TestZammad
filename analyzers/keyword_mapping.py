@@ -10,4 +10,3 @@ keyword_map = {
     "JURIS": ["juris", "juridique", "gestion juridique", "contentieux"],
     "UTINA": ["utina", "leasing", "scania", "outil leasing"]
 }
-
